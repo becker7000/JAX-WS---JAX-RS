@@ -1,0 +1,7 @@
+mx\com\cst\webapp\jaxrs\service\LibroServicioWeb.class
+mx\com\cst\webapp\jaxrs\repository\LibroRepositoryImp.class
+mx\com\cst\webapp\jaxrs\ProducerEntityManager.class
+mx\com\cst\webapp\jaxrs\Main.class
+mx\com\cst\webapp\jaxrs\model\Libro.class
+mx\com\cst\webapp\jaxrs\repository\LibroRepository.class
+mx\com\cst\webapp\jaxrs\service\LibrosServicioWebImp.class
