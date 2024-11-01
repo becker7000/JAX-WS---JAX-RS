@@ -1,0 +1,5 @@
+mx\com\cst\webapp\api\Main.class
+mx\com\cst\webapp\api\service\ProductoService.class
+mx\com\cst\webapp\api\model\Producto.class
+mx\com\cst\webapp\api\service\ProductoServiceImp.class
+mx\com\cst\webapp\api\control\ProductosApiServlet.class
